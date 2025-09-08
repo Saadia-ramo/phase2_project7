@@ -2,7 +2,8 @@
 
 # Movie Market Analysis: Data-Driven Insights for Strategic Movie Production
 
-### Authors : Marylyne
+### Authors : 
+##              Marylyne
 ##              Cindy
 ##              Trevor
 
