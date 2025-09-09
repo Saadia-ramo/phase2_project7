@@ -2,7 +2,10 @@
 
 # Movie Market Analysis: Data-Driven Insights for Strategic Movie Production
 
-### Authors : Anthony, Jedida, Winnie, Navros, Rachel
+### Authors : 
+##              Marylyne
+##              Cindy
+##              Trevor
 
 ## Project Overview
 This project focuses on analyzing movie market data to deliver strategic insights for launching a new movie studio. By leveraging a combination of Python and SQL, we explore key factors such as box office performance, audience ratings, and industry trends to determine which types of films are currently most successful. The goal is to translate these data-driven insights into practical recommendations that real-world stakeholders in the film industry can use to make informed decisions.
