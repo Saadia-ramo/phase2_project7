@@ -86,9 +86,6 @@ This analysis focuses on the following datasets that provide comprehensive insig
 # Data Overview
 
 <p align="center">
-  <img src="Images/IMG_3432.PNG" alt="Image 1" width="250"/>
-  <img src="Images/IMG_3433.PNG" alt="Image 2" width="250"/>
-  <img src="Images/IMG_3434.PNG" alt="Image 3" width="250"/>
 </p>
 
 
