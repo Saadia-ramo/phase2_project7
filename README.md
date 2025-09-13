@@ -171,10 +171,12 @@ The analysis will concentrate on:
 Here are three key visualizations for our analysis
 
 1. Genre vs. Return on Investment (ROI) bar graph- Drama,Family,Fantasy genres tend to outperform others in terms of return on investment (ROI), highlighting genre-based opportunities.
-2.  Release Month by Median Gross Revenue line graph-
-3.  Revenue Distribution by 
+   <img width="730" height="387" alt="image" src="https://github.com/user-attachments/assets/e2ea3879-d673-4b55-addb-b1ffc2abfe98" />
+3.  Top 10 highly rated directors
+   <img width="712" height="424" alt="image" src="https://github.com/user-attachments/assets/5be7cd29-732e-4e57-9a87-569295ae7032" />
+4.  Revenue Analysis
+   <img width="609" height="387" alt="image" src="https://github.com/user-attachments/assets/b661e3ea-f44f-4cf2-bbb3-1663f1b236f9" />
 
-Link to Dashboard:
 
 ## Conclusion
 
