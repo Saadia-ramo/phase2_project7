@@ -3,10 +3,10 @@
 # Movie Market Analysis: Data-Driven Insights for Strategic Movie Production
 
 ### Authors : 
-##              Marylyne
-##              Cindy
-##              Trevor
-##              Halima
+   ##              Marylyne
+   ##              Cindy
+   ##              Trevor
+   ##              Halima
 
 ## Project Overview
 This project focuses on analyzing movie market data to deliver **strategic insights** for launching a new movie studio.  
@@ -102,21 +102,6 @@ Our analysis provides competitive advantages:
 
 ---
 
-📈 Statistical Analysis & Tests
-To validate our insights, we applied:  
-
-1. **Correlation Analysis** → Checked linear relationships (e.g., budget vs. revenue, ratings vs. revenue).  
-2. **Hypothesis Testing (t-tests, ANOVA)** →  
-   - Tested if certain **genres** significantly outperform others in revenue.  
-   - Compared **ratings groups** (IMDb > 7 vs. < 7) for differences in gross revenue.  
-3. **Regression Models** →  
-   - **Linear regression**: Predicted revenue based on budget, ratings, and runtime.  
-   - **Multiple regression**: Combined financial and audience predictors.  
-
-🔑 **Why regression?**  
-Regression helps **quantify the effect size** of predictors like budget or ratings on box office revenue, allowing data-backed investment decisions rather than assumptions.  
-
----
 
 ## Tools Used
 - **Python** – Core analysis  
@@ -161,6 +146,21 @@ Certain directors consistently deliver strong films.
 ### 3. Revenue Analysis
 Action and Sci-Fi dominate worldwide revenue.  
 ![Revenue Analysis](https://github.com/user-attachments/assets/b661e3ea-f44f-4cf2-bbb3-1663f1b236f9)
+
+---
+## 📈 Statistical Analysis & Tests
+To validate our insights, we applied:  
+
+1. **Correlation Analysis** → Checked linear relationships (e.g., budget vs. revenue, ratings vs. revenue).  
+2. **Hypothesis Testing (t-tests, ANOVA)** →  
+   - Tested if certain **genres** significantly outperform others in revenue.  
+   - Compared **ratings groups** (IMDb > 7 vs. < 7) for differences in gross revenue.  
+3. **Regression Models** →  
+   - **Linear regression**: Predicted revenue based on budget, ratings, and runtime.  
+   - **Multiple regression**: Combined financial and audience predictors.  
+
+🔑 **Why regression?**  
+Regression helps **quantify the effect size** of predictors like budget or ratings on box office revenue, allowing data-backed investment decisions rather than assumptions.  
 
 ---
 
