@@ -189,42 +189,6 @@ This analysis led to three relevant findings:
 
 These insights empower stakeholders to make data-driven decisions in the highly competitive movie industry.
 
-## Files in this Repo
-```
-Movie-Market-Analysis/notebook.ipynb
-Movie-Market-Analysis/zippedData
-Movie-Market-Analysis/presentation.pdf: Slide deck for stakeholders
-Movie-Market-Analysis/: Tableau workbook
-Movie-Market-Analysis/.gitignore: Git config file
-Movie-Market-Analysis/README.md
-Movie-Market-Analysis/requirements.txt
-```
-
-## File Structure
-```
-Movie-Market-Analysis/
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── zippedData/
-│   └── your_data_files.zip
-├── notebooks/
-│   └── notebook.ipynb
-├── outputs/
-│   ├── Dashboard.pdf
-│   └── Presentation.pdf
-
-```
-
-## How to Run
-
-Follow these steps to run the project locally:
-
-1. Clone this repository  
-2. Install dependencies: `pip install -r requirements.txt`  
-3.  Launch Jupyter Notebook: `jupyter notebook`
-
-
 
 ## Questions?
 Feel free to reach out or submit issues in this repo!
